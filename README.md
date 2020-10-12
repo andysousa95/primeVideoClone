@@ -7,7 +7,6 @@
 
 
 [![GitHub issues](https://github.com/andysousa95/primeVideoClone/issues)
-[![GitHub license] license still in progress.
 
 </div>
 
