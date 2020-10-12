@@ -13,9 +13,7 @@
 
 # Usage
 
-Get the token in discord developer(https://discord.com/developers), put the token in .env file(TOKEN field);
-After this, get the library of discord.js and npm(links bellow);
-Implement the functions that you want and enjoy!
+Get the code and paste in your Visual Studio Code file, and implements the changes you want.
 
 # Contribution:
 
